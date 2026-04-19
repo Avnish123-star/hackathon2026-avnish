@@ -1,7 +1,7 @@
 # Hackathon 2026 – Autonomous Support Agent
 
 ## How to run
-python3 main.py
+python main.py
 
 ## Features
 - async concurrency
