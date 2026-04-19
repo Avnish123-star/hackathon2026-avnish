@@ -1,0 +1,222 @@
+[
+    {
+        "ticket_id": "TKT-001",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-001"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-002",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-002"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-003",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-003"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-004",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-004"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-005",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-005"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-006",
+        "reasoning": [
+            "Phase 1: Ticket classified as General (Low)",
+            "Phase 2: Escalating TKT-006 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: General"
+        }
+    },
+    {
+        "ticket_id": "TKT-007",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-007"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-008",
+        "reasoning": [
+            "Phase 1: Ticket classified as Technical (High)",
+            "Phase 2: Resolution success for TKT-008"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-009",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-009"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-010",
+        "reasoning": [
+            "Phase 1: Ticket classified as Shipping (Medium)",
+            "Phase 2: Resolution success for TKT-010"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-011",
+        "reasoning": [
+            "Phase 1: Ticket classified as General (Low)",
+            "Phase 2: Escalating TKT-011 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: General"
+        }
+    },
+    {
+        "ticket_id": "TKT-012",
+        "reasoning": [
+            "Phase 1: Ticket classified as General (Low)",
+            "Phase 2: Escalating TKT-012 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: General"
+        }
+    },
+    {
+        "ticket_id": "TKT-013",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-013"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-014",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-014"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-015",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-015"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-016",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Escalating TKT-016 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: Refund"
+        }
+    },
+    {
+        "ticket_id": "TKT-017",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Escalating TKT-017 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: Refund"
+        }
+    },
+    {
+        "ticket_id": "TKT-018",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Resolution success for TKT-018"
+        ],
+        "final_decision": {
+            "action": "resolved",
+            "message": "Cannot resolve automatically."
+        }
+    },
+    {
+        "ticket_id": "TKT-019",
+        "reasoning": [
+            "Phase 1: Ticket classified as Refund (High)",
+            "Phase 2: Escalating TKT-019 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: Refund"
+        }
+    },
+    {
+        "ticket_id": "TKT-020",
+        "reasoning": [
+            "Phase 1: Ticket classified as Technical (High)",
+            "Phase 2: Escalating TKT-020 for human review"
+        ],
+        "final_decision": {
+            "action": "escalated",
+            "reason": "Reason: Data missing or low confidence. Category: Technical"
+        }
+    }
+]
